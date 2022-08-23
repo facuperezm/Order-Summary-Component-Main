@@ -50,11 +50,11 @@ body {
   background-color: transparent;
   color: var(--Bright-blue);
 }
-.btn--primary,
+/* .btn--primary,
 .btn--secondary {
   width: 95%;
   max-width: 340px;
-}
+} */
 .btn--primary {
   color: white;
   background-color: var(--Bright-blue);
